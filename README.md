@@ -1,2 +1,4 @@
 # hello-world
-It is s test repos
+It is a test repos
+I'm just chilling
+
